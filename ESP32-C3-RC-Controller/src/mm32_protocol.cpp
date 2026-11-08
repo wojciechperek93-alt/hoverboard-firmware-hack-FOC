@@ -1,3 +1,4 @@
+// Wojtek — MM32 Gen2 UART protocol implementation
 #include "mm32_protocol.h"
 
 namespace mm32 {
