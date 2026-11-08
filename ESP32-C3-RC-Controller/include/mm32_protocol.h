@@ -1,3 +1,4 @@
+/* Wojtek — MM32 Gen2 UART protocol interface */
 #pragma once
 
 #include <stddef.h>
