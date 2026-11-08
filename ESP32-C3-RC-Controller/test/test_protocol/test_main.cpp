@@ -1,3 +1,4 @@
+// Wojtek — regression tests for the MM32 Gen2 UART protocol
 #include <unity.h>
 #include "mm32_protocol.h"
 
